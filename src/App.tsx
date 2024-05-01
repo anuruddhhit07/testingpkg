@@ -1,6 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+// import {myFunction,OHLCVData } from "customcharts"
+import myFunction from "customcharts/src/index"
+console.log(myFunction);
+// console.log(OHLCVData);
 
 function App() {
   return (
